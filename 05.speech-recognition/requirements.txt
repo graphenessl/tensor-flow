@@ -1,0 +1,6 @@
+scikit-image
+tflearn
+tensorflow
+librosa
+enum
+h5py

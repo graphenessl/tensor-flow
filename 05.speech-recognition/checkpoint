@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/macosx/Databases/Development/TensorFlow/projects/05.speech-recognition/0-10_digits_model.tflearn"
+all_model_checkpoint_paths: "/Users/macosx/Databases/Development/TensorFlow/projects/05.speech-recognition/0-10_digits_model.tflearn"
